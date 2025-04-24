@@ -5,10 +5,10 @@
   },
   "data": [
     {
-      "name": "Truyện QQ",
+      "name": "Truyện QQ Mới",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/VinhLe99/extensions-vbook/master/truyenqq/plugin.zip",
-      "version": 20,
+      "version": 1,
       "type": "comic",
       "locale": "vi_VN",
       "source": "https://truyenqqgo.com",
